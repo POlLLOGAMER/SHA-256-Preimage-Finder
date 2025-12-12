@@ -1,0 +1,1 @@
+Yo, listen up. I LITERALLY told you exactly how this thing scales. So what did I do? I grabbed the ipynb sitting in my folder, uploaded it straight to Colab's TPU, and BAM - I hit 31 HEXADECIMAL LEADING ZEROS in just 10 FREAKING MINUTES, WHAT THE ACTUAL WHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAT, HAHAHAHAHAH
